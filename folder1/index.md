@@ -1,4 +1,4 @@
 ---
-layout: forward
+layout: redirect
 target: ./summary
 ---
